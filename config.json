@@ -22,14 +22,14 @@
       "Presence": ["online", "dnd", "idle", "offline", "unkown"],
       "Message": [
         {
-          "Title": "# Hello!",
-          "Body": "> mind joining my server!",
-          "Link": "> discord.gg/"
+          "Title": "# witaj cwelu!",
+          "Body": "> nie ładnie się promować na innych serwerach, wbij na serwer dc >>darmowy serwer mc na modach",
+          "Link": "> https://dc.fabrica.lol"
         },
         {
-          "Title": "# Hey!",
-          "Body": "> This Message Was sent using",
-          "Link": "> https://github.com/yaboipy/godm"
+          "Title": "# jakiś zjeb się promuje u ciebie? ",
+          "Body": "> skontaktuj się na dm to ci pomogę z cwelami",
+          "Link": "> https://dc.fabrica.lol"
         }
       ]
     }
